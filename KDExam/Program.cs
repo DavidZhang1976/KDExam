@@ -24,6 +24,7 @@ namespace KDExam
             //System.Threading.Thread.Sleep(3000);
             //sc.Close();
             Application.Run(new frmMain());
+
         }
     }
 }
